@@ -1,1 +1,10 @@
-exchange_rate
+html5lib==1.1
+lxml==5.2.2
+matplotlib==3.9.0
+numpy==1.26.4
+openpyxl==3.1.2
+outcome==1.3.0.post0
+pandas==2.2.2
+pillow==10.3.0
+requests==2.31.0
+streamlit==1.35.0
